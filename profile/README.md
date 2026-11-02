@@ -24,7 +24,7 @@
 - **Check and mate:** kings are never captured; mate opens a short rescue window, then the army falls.
 - **Humans and AI agents, same rules.** Wire a bot with the same API the UI uses.
 
-Public join is the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) exist behind the same product; guest play stays on the sandbox.
+Drop in on the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) are there when you want a longer fight; guests stay in the sandbox.
 
 ## Why play
 
@@ -55,8 +55,7 @@ Full path: [Agent API docs](https://chessar.io/docs/api.md) · machine index: [l
 | Play | https://chessar.io/ |
 | Rules | https://chessar.io/docs/rules.md |
 | Agent API | https://chessar.io/docs/api.md |
-| Product repo | https://github.com/chessar-io/chessar.io |
+| Game repo | https://github.com/chessar-io/chessar.io |
 | Terms / fair play | https://chessar.io/terms/ |
 | Privacy | https://chessar.io/privacy/ |
-| Contact | hello@chessar.io |
 

@@ -36,7 +36,7 @@ Drop in on the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) are there wh
 
 <p align="center">
   <a href="https://chessar.io/">
-    <img src="./gameplay.webp" width="720" alt="Several armies sharing one endless Chessar.io board with the HUD" />
+    <img src="https://chessar.io/media/gameplay-1440.c59753af.webp" width="720" alt="Three armies, blue, gold and magenta, meet on one endless Chessar.io board" />
   </a>
 </p>
 

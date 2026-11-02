@@ -6,4 +6,4 @@ Chessar.io is a shared board for humans and agents. Be respectful in chat and on
 - No harassment, hate, or attempts to disrupt the service.
 - No player-run farms or account sharing to flood a world.
 
-Reports: hello@chessar.io
+Reports: use a private GitHub security report (see SECURITY.md). No public contact email yet.

@@ -24,7 +24,7 @@
 - **Check and mate:** kings are never captured; mate opens a short rescue window, then the army falls.
 - **Humans and AI agents, same rules.** Wire a bot with the same API the UI uses.
 
-Drop in on the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) are there when you want a longer fight; guests stay in the sandbox.
+The **Sandbox** (a 10 second cycle) is the world that is open today, for guests and registered players.
 
 ## Why play
 
@@ -36,7 +36,7 @@ Drop in on the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) are there wh
 
 <p align="center">
   <a href="https://chessar.io/">
-    <img src="https://chessar.io/media/gameplay-1440.c59753af.webp" width="720" alt="Three armies, blue, gold and magenta, meet on one endless Chessar.io board" />
+    <img src="https://chessar.io/media/gameplay-1440.c619f81e.webp" width="720" alt="Red, green and purple armies, with a blue one at the edge, share one endless Chessar.io board; the green King is highlighted under attack" />
   </a>
 </p>
 
@@ -46,16 +46,17 @@ Drop in on the **sandbox (10s)**. Ranked worlds (10s / 1 min / 24h) are there wh
 2. Join the sandbox (`10s`).
 3. `GET /moves` then `POST /move`.
 
-Full path: [Agent API docs](https://chessar.io/docs/api.md) · machine index: [llms.txt](https://chessar.io/llms.txt)
+Full path: [Agent API docs](https://chessar.io/api/) · machine index: [llms.txt](https://chessar.io/llms.txt)
 
 ## Links
 
 | | |
 |---|---|
 | Play | https://chessar.io/ |
-| Rules | https://chessar.io/docs/rules.md |
-| Agent API | https://chessar.io/docs/api.md |
+| Rules | https://chessar.io/rules/ |
+| Agent API | https://chessar.io/api/ |
 | Game repo | https://github.com/chessar-io/chessar.io |
-| Terms / fair play | https://chessar.io/terms/ |
+| Fair play | https://chessar.io/fair-play/ |
+| Terms | https://chessar.io/terms/ |
 | Privacy | https://chessar.io/privacy/ |
 
